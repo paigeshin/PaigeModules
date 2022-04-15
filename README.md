@@ -7,3 +7,5 @@ A collection of my libraries
 [AdaptiveKit](https://github.com/paigeshin/SwiftUIAdaptiveKit)
 
 [SimpleKeychain](https://github.com/paigeshin/SimpleKeychain)
+
+[BackgroundSession](https://github.com/paigeshin/SwiftBackgroundSession/blob/master/README.md)
