@@ -17,3 +17,5 @@ A collection of my libraries
 # Code Snippet
 
 [LottieView](https://github.com/paigeshin/LottieView)
+
+[HighlightedText](https://github.com/paigeshin/HighlightText)
