@@ -9,3 +9,5 @@ A collection of my libraries
 [SimpleKeychain](https://github.com/paigeshin/SimpleKeychain)
 
 [BackgroundSession](https://github.com/paigeshin/SwiftBackgroundSession/blob/master/README.md)
+
+[ReduxStore](https://github.com/paigeshin/SwiftReduxStore)
