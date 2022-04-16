@@ -19,3 +19,5 @@ A collection of my libraries
 [LottieView](https://github.com/paigeshin/LottieView)
 
 [HighlightedText](https://github.com/paigeshin/HighlightText)
+
+[Firebase Analytics Extension](https://github.com/paigeshin/FirebaseTrackingExtension)
