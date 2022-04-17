@@ -21,3 +21,5 @@ A collection of my libraries
 [HighlightedText](https://github.com/paigeshin/HighlightText)
 
 [Firebase Analytics Extension](https://github.com/paigeshin/FirebaseTrackingExtension)
+
+[Current Week View](https://github.com/paigeshin/CurrentWeekView/)
