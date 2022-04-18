@@ -14,7 +14,7 @@ A collection of my libraries
 
 [ReduxStore](https://github.com/paigeshin/SwiftReduxStore)
 
-# Code Snippet
+# Swift Code Snippet
 
 [LottieView](https://github.com/paigeshin/LottieView)
 
@@ -23,3 +23,14 @@ A collection of my libraries
 [Firebase Analytics Extension](https://github.com/paigeshin/FirebaseTrackingExtension)
 
 [Current Week View](https://github.com/paigeshin/CurrentWeekView/)
+
+# NPM 
+
+[Playstore Comments To CSV](https://www.npmjs.com/package/playstore-comments-to-csv)
+
+[Android Translator](https://www.npmjs.com/package/aos_translator)
+
+[Appstore Comments To CSV](https://www.npmjs.com/package/appstore-comments-to-csv)
+
+[iOS Translator](https://www.npmjs.com/package/ios_translator)
+
