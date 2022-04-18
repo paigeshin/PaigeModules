@@ -24,6 +24,8 @@ A collection of my libraries
 
 [Current Week View](https://github.com/paigeshin/CurrentWeekView/)
 
+[Dialog Scaffold](https://github.com/paigeshin/SwiftUIDialogScaffold)
+
 # NPM 
 
 [Playstore Comments To CSV](https://www.npmjs.com/package/playstore-comments-to-csv)
