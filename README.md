@@ -26,6 +26,8 @@ A collection of my libraries
 
 [Dialog Scaffold](https://github.com/paigeshin/SwiftUIDialogScaffold)
 
+[Swift Pager](https://github.com/paigeshin/SwiftPager)
+
 # NPM 
 
 [Playstore Comments To CSV](https://www.npmjs.com/package/playstore-comments-to-csv)
