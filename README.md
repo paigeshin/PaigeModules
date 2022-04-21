@@ -28,6 +28,8 @@ A collection of my libraries
 
 [Swift Pager](https://github.com/paigeshin/SwiftPager)
 
+[GIF Image Loader](https://github.com/paigeshin/GIFImageLoader)
+
 # NPM 
 
 [Playstore Comments To CSV](https://www.npmjs.com/package/playstore-comments-to-csv)
