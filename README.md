@@ -34,6 +34,8 @@ A collection of my libraries
 
 [Custom Calendar + Task Manager](https://github.com/paigeshin/CustomDatePicker_TaskManager)
 
+[Draggable BottomSheet with SearchBar](https://github.com/paigeshin/DraggableBottomSheet_With_SearchBar)
+
 # NPM 
 
 [Playstore Comments To CSV](https://www.npmjs.com/package/playstore-comments-to-csv)
